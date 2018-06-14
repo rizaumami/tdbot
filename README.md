@@ -51,7 +51,7 @@ Note: On Ubuntu, `gperf` is in its universe repository. So, make sure to enable 
 1.  Configure
 
     ```sh
-    cmake -DCMAKE_BUILD_TYPE=Release ../tdbot
+    cmake -DCMAKE_BUILD_TYPE=Release ..
     ```
 
 1.  Start build process
